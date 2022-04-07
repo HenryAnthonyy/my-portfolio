@@ -21,8 +21,7 @@
 # Live Demo 📺
 
 You can check out the live Demo here:
-<a src="https://henryanthonyy.github.io/my-portfolio/">My Portfolio</a>
-
+<a href="https://henryanthonyy.github.io/my-portfolio/">MyPortfolio</a>
 <br>
 <br>
 
